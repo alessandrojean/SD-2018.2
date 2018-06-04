@@ -2,7 +2,7 @@
 ![Year][year] ![Id][id] ![T-P-I][tpi] ![Last class][last-class]
 ![Language][language] ![IDE][ide]
 
-Algorithms written in the classes of Digital Systems (Sistemas
+Circuits written in the classes of Digital Systems (Sistemas
 Digitais) at Federal University of ABC (UFABC).
 
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
@@ -10,7 +10,54 @@ Digitais) at Federal University of ABC (UFABC).
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
 [last-class]: https://img.shields.io/badge/last_class-2018.06.04-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-VHDL-yellow.svg?style=flat-square
-[ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
+[ide]: https://img.shields.io/badge/IDE-Quartus%20II-orange.svg?style=flat-square
+
+## Classes
+
+- **04/06/2018** *(Laboratory)*: [Introduction
+to the Quartus II software and the Altera Cyclone II FPGA development
+kit through a schematic design example].
+- **07/06/2018** *(Theory)*: Review of combinational and sequential
+digital circuits.
+- **11/06/2018** *(Laboratory)*: Introduction to VHDL language,
+FPGA simulation and recording.
+- **14/06/2018** *(Theory)*: Introduction to programmable logic devices
+(CPLD and FPGA).
+- **21/06/2018** *(Theory)*: Introduction to VHDL language.
+- **25/06/2018** *(Laboratory)*: Design of combinational circuits in VHDL.
+- **28/06/2018** *(Theory)*: Design of combinational circuits in VHDL:
+multiplexers, decoders, priority decoders.
+- **02/07/2018** *(Laboratory)*: Design of combinational circuits in VHDL
+and schematic diagram.
+- **05/07/2018** *(Theory)*: Design of combinational circuits in VHDL:
+code converters, binary to 7 segment convertion.
+- **12/07/2018** *(Theory)*: Design of arithmetic circuits: 
+adder/subtractor, adder with overflow, different implementations
+of adders in VHDL.
+- **16/07/2018** *(Laboratory)*: Design of arithmetic circuits in VHDL.
+- **19/07/2018** *(Theory)*: Latches and Flip-Flops: proccess
+usage and implicit memory, latches, FF's with synchronous and asynchronous
+reset.
+- **23/07/2018** *(Laboratory)*: Design of sequential circuits in VHDL:
+counters.
+- **26/07/2018** *(Theory)*: **Test**.
+- **30/07/2018** *(Laboratory)*: Design of a Pulse Width Modulation
+(PWM) module in VHDL.
+- **02/08/2018** *(Theory)*: Registers: building using Flip-Flops,
+asynchronous clear and enable, shift registers, parallel load, universal
+shift register, bus usage example.
+- **06/08/2018** *(Laboratory)*: Design of communication modules (UART,
+SPI) in VHDL.
+- **09/08/2018** *(Theory)*: Introduction to the Arithmetic Logic Unit (ALU).
+- **13/08/2018** *(Laboratory)*: Introduction to the Arithmetic Logic Unit
+(ALU).
+- **16/08/2018** *(Theory)*: Introduction to Microprocessor design.
+- **27/08/2018** *(Laboratory)*: Introduction to Microprocessor design.
+
+[Introduction
+to the Quartus II software and the Altera Cyclone II FPGA development
+kit through a schematic design example]: classes/laboratory/2018.06.04/
+
 
 ## License
 
