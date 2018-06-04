@@ -25,7 +25,7 @@
 ### Push Buttons
 
 <p align="center">
-  <img src="img/img5.png">
+  <img src="img/img23.png">
 </p>
 
 **Pressionado:** Nível Baixo (0V).
