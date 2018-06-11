@@ -19,8 +19,8 @@ to the Quartus II software and the Altera Cyclone II FPGA development
 kit through a schematic design example].
 - **07/06/2018** *(Theory)*: Review of combinational and sequential
 digital circuits.
-- **11/06/2018** *(Laboratory)*: Introduction to VHDL language,
-FPGA simulation and recording.
+- **11/06/2018** *(Laboratory)*: [Introduction to VHDL language,
+FPGA simulation and recording].
 - **14/06/2018** *(Theory)*: Introduction to programmable logic devices
 (CPLD and FPGA).
 - **21/06/2018** *(Theory)*: Introduction to VHDL language.
@@ -57,6 +57,7 @@ SPI) in VHDL.
 [Introduction
 to the Quartus II software and the Altera Cyclone II FPGA development
 kit through a schematic design example]: classes/laboratory/2018.06.04/
+[Introduction to VHDL language, FPGA simulation and recording]: classes/laboratory/2018.06.11/
 
 
 ## License
