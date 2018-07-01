@@ -2,6 +2,8 @@
 *.pdf
 definition.tex
 pre-reports/
+*.rar
+*.zip
 
 # Quartus II stuff
 db/
