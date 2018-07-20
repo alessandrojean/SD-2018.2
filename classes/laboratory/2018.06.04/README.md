@@ -1,4 +1,5 @@
 # Apresentação da Disciplina e Introdução ao Software Quartus II e ao Kit Cyclone II
+*Retirado dos slides do Prof. Rodrigo M. Bacurau, CMCC/UFABC.*
 
 ## Altera Cyclone II
 
