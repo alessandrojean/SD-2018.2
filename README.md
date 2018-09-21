@@ -49,7 +49,7 @@ with PS2 keyboard and VGA display].
 - **13/08/2018** *(Laboratory)*: [Project] final tests.
 - **16/08/2018** *(Theory)*: Packages, libraries and
 binary number multiplication algorithms.
-- **20/08/2018** *(Theory)*: [Project] apresentation.
+- **20/08/2018** *(Theory)*: **[Project] apresentation**.
 
 [Introduction
 to the Quartus II software and the Altera Cyclone II FPGA development
