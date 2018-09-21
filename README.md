@@ -8,7 +8,7 @@ Digitais) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA024--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.06.04-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.08.20-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-VHDL-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-Quartus%20II-orange.svg?style=flat-square
 
@@ -24,41 +24,50 @@ FPGA simulation and recording].
 - **14/06/2018** *(Theory)*: Introduction to programmable logic devices
 (CPLD and FPGA).
 - **21/06/2018** *(Theory)*: Introduction to VHDL language.
-- **25/06/2018** *(Laboratory)*: Design of combinational circuits in VHDL.
-- **28/06/2018** *(Theory)*: Design of combinational circuits in VHDL:
-multiplexers, decoders, priority decoders.
-- **02/07/2018** *(Laboratory)*: Design of combinational circuits in VHDL
-and schematic diagram.
-- **05/07/2018** *(Theory)*: Design of combinational circuits in VHDL:
-code converters, binary to 7 segment convertion.
-- **12/07/2018** *(Theory)*: Design of arithmetic circuits: 
-adder/subtractor, adder with overflow, different implementations
-of adders in VHDL.
-- **16/07/2018** *(Laboratory)*: Design of arithmetic circuits in VHDL.
-- **19/07/2018** *(Theory)*: Latches and Flip-Flops: proccess
-usage and implicit memory, latches, FF's with synchronous and asynchronous
-reset.
-- **23/07/2018** *(Laboratory)*: Design of sequential circuits in VHDL:
-counters.
+- **25/06/2018** *(Laboratory)*: [Combinational circuits in VHDL: 4bit 
+adder with result in 7 segment display].
+- **28/06/2018** *(Theory)*: Concorrent commands: `when-else` and `with select`.
+- **02/07/2018** *(Laboratory)*: [Concorrent commands: parallel adder
+circuit implementation, binary to BCD converter and priority encoder].
+- **05/07/2018** *(Theory)*: Sequential circuits: proccess,
+`if-else` and `case-when` command.
+- **12/07/2018** *(Theory)*: Attributes, `wait` command
+and synchronous circuits description: registers and counters.
+- **16/07/2018** *(Laboratory)*: [Sequential circuits:
+clock divider, counter and adder/subtractor with accumulator].
+- **19/07/2018** *(Theory)*: Sequential circuits analysis,
+state table and state machine: Moore and Mealy model.
+- **23/07/2018** *(Laboratory)*: [Templates for implementation
+of state machines in VHDL: Moore and Mealy model].
 - **26/07/2018** *(Theory)*: **Test**.
-- **30/07/2018** *(Laboratory)*: Design of a Pulse Width Modulation
-(PWM) module in VHDL.
-- **02/08/2018** *(Theory)*: Registers: building using Flip-Flops,
-asynchronous clear and enable, shift registers, parallel load, universal
-shift register, bus usage example.
-- **06/08/2018** *(Laboratory)*: Design of communication modules (UART,
-SPI) in VHDL.
-- **09/08/2018** *(Theory)*: Introduction to the Arithmetic Logic Unit (ALU).
-- **13/08/2018** *(Laboratory)*: Introduction to the Arithmetic Logic Unit
-(ALU).
-- **16/08/2018** *(Theory)*: Introduction to Microprocessor design.
-- **27/08/2018** *(Laboratory)*: Introduction to Microprocessor design.
+- **30/07/2018** *(Laboratory)*: [PWM module and 13bit binary
+to 16bit BCD converter].
+- **02/08/2018** *(Theory)*: Iteration schemas.
+- **06/08/2018** *(Laboratory)*: [Libraries for communication
+with PS2 keyboard and VGA display].
+- **09/08/2018** *(Theory)*: Subprograms: functions and procedures.
+- **13/08/2018** *(Laboratory)*: [Project] final tests.
+- **16/08/2018** *(Theory)*: Packages, libraries and
+binary number multiplication algorithms.
+- **20/08/2018** *(Theory)*: [Project] apresentation.
 
 [Introduction
 to the Quartus II software and the Altera Cyclone II FPGA development
 kit through a schematic design example]: classes/laboratory/2018.06.04/
 [Introduction to VHDL language, FPGA simulation and recording]: classes/laboratory/2018.06.11/
-
+[Combinational circuits in VHDL: 4bit 
+adder with result in 7 segment display]: classes/laboratory/2018.06.25/
+[Concorrent commands: parallel adder circuit implementation, 
+binary to BCD converter and priority encoder]: classes/laboratory/2018.07.02/
+[Sequential circuits: clock divider, counter 
+and adder/subtractor with accumulator]: classes/laboratory/2018.07.16/
+[Templates for implementation of state
+machines in VHDL: Moore and Mealy model]: classes/laboratory/2018.07.23/
+[PWM module and 13bit binary
+to 16bit BCD converter]: classes/laboratory/2018.07.30/
+[Libraries for communication
+with PS2 keyboard and VGA display]: classes/laboratory/2018.08.06/
+[Project]: project/
 
 ## License
 

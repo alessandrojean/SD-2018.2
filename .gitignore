@@ -10,3 +10,17 @@ db/
 incremental_db/
 simulation/
 output_files/
+*.qpf
+*.qsf
+*.qsf.bak
+*.qws
+*.vhd.bak
+*.vhd.temp
+
+# LaTeX stuff
+_minted-*/
+definition.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
